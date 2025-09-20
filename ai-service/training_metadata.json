@@ -1,0 +1,1802 @@
+[
+  {
+    "filename": "equation_000_var_0.png",
+    "equation": "36 * 76 =",
+    "expected": "36 * 76 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_000_var_1.png",
+    "equation": "36 * 76 =",
+    "expected": "36 * 76 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_000_var_2.png",
+    "equation": "36 * 76 =",
+    "expected": "36 * 76 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_001_var_0.png",
+    "equation": "19 - 73 =",
+    "expected": "19 - 73 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_001_var_1.png",
+    "equation": "19 - 73 =",
+    "expected": "19 - 73 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_001_var_2.png",
+    "equation": "19 - 73 =",
+    "expected": "19 - 73 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_002_var_0.png",
+    "equation": "16 + 71 =",
+    "expected": "16 + 71 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_002_var_1.png",
+    "equation": "16 + 71 =",
+    "expected": "16 + 71 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_002_var_2.png",
+    "equation": "16 + 71 =",
+    "expected": "16 + 71 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_003_var_0.png",
+    "equation": "67 * 39 =",
+    "expected": "67 * 39 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_003_var_1.png",
+    "equation": "67 * 39 =",
+    "expected": "67 * 39 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_003_var_2.png",
+    "equation": "67 * 39 =",
+    "expected": "67 * 39 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_004_var_0.png",
+    "equation": "12 * 56 =",
+    "expected": "12 * 56 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_004_var_1.png",
+    "equation": "12 * 56 =",
+    "expected": "12 * 56 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_004_var_2.png",
+    "equation": "12 * 56 =",
+    "expected": "12 * 56 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_005_var_0.png",
+    "equation": "64 * 79 =",
+    "expected": "64 * 79 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_005_var_1.png",
+    "equation": "64 * 79 =",
+    "expected": "64 * 79 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_005_var_2.png",
+    "equation": "64 * 79 =",
+    "expected": "64 * 79 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_006_var_0.png",
+    "equation": "12 - 36 =",
+    "expected": "12 - 36 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_006_var_1.png",
+    "equation": "12 - 36 =",
+    "expected": "12 - 36 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_006_var_2.png",
+    "equation": "12 - 36 =",
+    "expected": "12 - 36 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_007_var_0.png",
+    "equation": "73 + 72 =",
+    "expected": "73 + 72 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_007_var_1.png",
+    "equation": "73 + 72 =",
+    "expected": "73 + 72 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_007_var_2.png",
+    "equation": "73 + 72 =",
+    "expected": "73 + 72 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_008_var_0.png",
+    "equation": "48 + 80 =",
+    "expected": "48 + 80 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_008_var_1.png",
+    "equation": "48 + 80 =",
+    "expected": "48 + 80 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_008_var_2.png",
+    "equation": "48 + 80 =",
+    "expected": "48 + 80 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_009_var_0.png",
+    "equation": "6 / 3 =",
+    "expected": "6 / 3 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_009_var_1.png",
+    "equation": "6 / 3 =",
+    "expected": "6 / 3 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_009_var_2.png",
+    "equation": "6 / 3 =",
+    "expected": "6 / 3 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_010_var_0.png",
+    "equation": "12 * 26 =",
+    "expected": "12 * 26 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_010_var_1.png",
+    "equation": "12 * 26 =",
+    "expected": "12 * 26 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_010_var_2.png",
+    "equation": "12 * 26 =",
+    "expected": "12 * 26 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_011_var_0.png",
+    "equation": "25 + 36 =",
+    "expected": "25 + 36 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_011_var_1.png",
+    "equation": "25 + 36 =",
+    "expected": "25 + 36 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_011_var_2.png",
+    "equation": "25 + 36 =",
+    "expected": "25 + 36 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_012_var_0.png",
+    "equation": "27 / 9 =",
+    "expected": "27 / 9 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_012_var_1.png",
+    "equation": "27 / 9 =",
+    "expected": "27 / 9 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_012_var_2.png",
+    "equation": "27 / 9 =",
+    "expected": "27 / 9 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_013_var_0.png",
+    "equation": "66 - 3 =",
+    "expected": "66 - 3 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_013_var_1.png",
+    "equation": "66 - 3 =",
+    "expected": "66 - 3 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_013_var_2.png",
+    "equation": "66 - 3 =",
+    "expected": "66 - 3 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_014_var_0.png",
+    "equation": "58 + 51 =",
+    "expected": "58 + 51 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_014_var_1.png",
+    "equation": "58 + 51 =",
+    "expected": "58 + 51 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_014_var_2.png",
+    "equation": "58 + 51 =",
+    "expected": "58 + 51 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_015_var_0.png",
+    "equation": "50 + 12 =",
+    "expected": "50 + 12 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_015_var_1.png",
+    "equation": "50 + 12 =",
+    "expected": "50 + 12 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_015_var_2.png",
+    "equation": "50 + 12 =",
+    "expected": "50 + 12 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_016_var_0.png",
+    "equation": "43 + 16 =",
+    "expected": "43 + 16 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_016_var_1.png",
+    "equation": "43 + 16 =",
+    "expected": "43 + 16 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_016_var_2.png",
+    "equation": "43 + 16 =",
+    "expected": "43 + 16 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_017_var_0.png",
+    "equation": "84 - 19 =",
+    "expected": "84 - 19 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_017_var_1.png",
+    "equation": "84 - 19 =",
+    "expected": "84 - 19 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_017_var_2.png",
+    "equation": "84 - 19 =",
+    "expected": "84 - 19 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_018_var_0.png",
+    "equation": "89 + 18 =",
+    "expected": "89 + 18 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_018_var_1.png",
+    "equation": "89 + 18 =",
+    "expected": "89 + 18 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_018_var_2.png",
+    "equation": "89 + 18 =",
+    "expected": "89 + 18 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_019_var_0.png",
+    "equation": "50 / 5 =",
+    "expected": "50 / 5 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_019_var_1.png",
+    "equation": "50 / 5 =",
+    "expected": "50 / 5 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_019_var_2.png",
+    "equation": "50 / 5 =",
+    "expected": "50 / 5 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_020_var_0.png",
+    "equation": "2x + 45 = 24",
+    "expected": "2x + 45 = 24",
+    "variation": 0
+  },
+  {
+    "filename": "equation_020_var_1.png",
+    "equation": "2x + 45 = 24",
+    "expected": "2x + 45 = 24",
+    "variation": 1
+  },
+  {
+    "filename": "equation_020_var_2.png",
+    "equation": "2x + 45 = 24",
+    "expected": "2x + 45 = 24",
+    "variation": 2
+  },
+  {
+    "filename": "equation_021_var_0.png",
+    "equation": "9x + 27 = 80",
+    "expected": "9x + 27 = 80",
+    "variation": 0
+  },
+  {
+    "filename": "equation_021_var_1.png",
+    "equation": "9x + 27 = 80",
+    "expected": "9x + 27 = 80",
+    "variation": 1
+  },
+  {
+    "filename": "equation_021_var_2.png",
+    "equation": "9x + 27 = 80",
+    "expected": "9x + 27 = 80",
+    "variation": 2
+  },
+  {
+    "filename": "equation_022_var_0.png",
+    "equation": "7x + 94 = 21",
+    "expected": "7x + 94 = 21",
+    "variation": 0
+  },
+  {
+    "filename": "equation_022_var_1.png",
+    "equation": "7x + 94 = 21",
+    "expected": "7x + 94 = 21",
+    "variation": 1
+  },
+  {
+    "filename": "equation_022_var_2.png",
+    "equation": "7x + 94 = 21",
+    "expected": "7x + 94 = 21",
+    "variation": 2
+  },
+  {
+    "filename": "equation_023_var_0.png",
+    "equation": "7x + 81 = 15",
+    "expected": "7x + 81 = 15",
+    "variation": 0
+  },
+  {
+    "filename": "equation_023_var_1.png",
+    "equation": "7x + 81 = 15",
+    "expected": "7x + 81 = 15",
+    "variation": 1
+  },
+  {
+    "filename": "equation_023_var_2.png",
+    "equation": "7x + 81 = 15",
+    "expected": "7x + 81 = 15",
+    "variation": 2
+  },
+  {
+    "filename": "equation_024_var_0.png",
+    "equation": "5x + 13 = 63",
+    "expected": "5x + 13 = 63",
+    "variation": 0
+  },
+  {
+    "filename": "equation_024_var_1.png",
+    "equation": "5x + 13 = 63",
+    "expected": "5x + 13 = 63",
+    "variation": 1
+  },
+  {
+    "filename": "equation_024_var_2.png",
+    "equation": "5x + 13 = 63",
+    "expected": "5x + 13 = 63",
+    "variation": 2
+  },
+  {
+    "filename": "equation_025_var_0.png",
+    "equation": "2x + 22 = 35",
+    "expected": "2x + 22 = 35",
+    "variation": 0
+  },
+  {
+    "filename": "equation_025_var_1.png",
+    "equation": "2x + 22 = 35",
+    "expected": "2x + 22 = 35",
+    "variation": 1
+  },
+  {
+    "filename": "equation_025_var_2.png",
+    "equation": "2x + 22 = 35",
+    "expected": "2x + 22 = 35",
+    "variation": 2
+  },
+  {
+    "filename": "equation_026_var_0.png",
+    "equation": "3x + 22 = 13",
+    "expected": "3x + 22 = 13",
+    "variation": 0
+  },
+  {
+    "filename": "equation_026_var_1.png",
+    "equation": "3x + 22 = 13",
+    "expected": "3x + 22 = 13",
+    "variation": 1
+  },
+  {
+    "filename": "equation_026_var_2.png",
+    "equation": "3x + 22 = 13",
+    "expected": "3x + 22 = 13",
+    "variation": 2
+  },
+  {
+    "filename": "equation_027_var_0.png",
+    "equation": "5x + 78 = 19",
+    "expected": "5x + 78 = 19",
+    "variation": 0
+  },
+  {
+    "filename": "equation_027_var_1.png",
+    "equation": "5x + 78 = 19",
+    "expected": "5x + 78 = 19",
+    "variation": 1
+  },
+  {
+    "filename": "equation_027_var_2.png",
+    "equation": "5x + 78 = 19",
+    "expected": "5x + 78 = 19",
+    "variation": 2
+  },
+  {
+    "filename": "equation_028_var_0.png",
+    "equation": "9x + 77 = 87",
+    "expected": "9x + 77 = 87",
+    "variation": 0
+  },
+  {
+    "filename": "equation_028_var_1.png",
+    "equation": "9x + 77 = 87",
+    "expected": "9x + 77 = 87",
+    "variation": 1
+  },
+  {
+    "filename": "equation_028_var_2.png",
+    "equation": "9x + 77 = 87",
+    "expected": "9x + 77 = 87",
+    "variation": 2
+  },
+  {
+    "filename": "equation_029_var_0.png",
+    "equation": "7x + 86 = 96",
+    "expected": "7x + 86 = 96",
+    "variation": 0
+  },
+  {
+    "filename": "equation_029_var_1.png",
+    "equation": "7x + 86 = 96",
+    "expected": "7x + 86 = 96",
+    "variation": 1
+  },
+  {
+    "filename": "equation_029_var_2.png",
+    "equation": "7x + 86 = 96",
+    "expected": "7x + 86 = 96",
+    "variation": 2
+  },
+  {
+    "filename": "equation_030_var_0.png",
+    "equation": "2x + 33 = 52",
+    "expected": "2x + 33 = 52",
+    "variation": 0
+  },
+  {
+    "filename": "equation_030_var_1.png",
+    "equation": "2x + 33 = 52",
+    "expected": "2x + 33 = 52",
+    "variation": 1
+  },
+  {
+    "filename": "equation_030_var_2.png",
+    "equation": "2x + 33 = 52",
+    "expected": "2x + 33 = 52",
+    "variation": 2
+  },
+  {
+    "filename": "equation_031_var_0.png",
+    "equation": "4x + 10 = 62",
+    "expected": "4x + 10 = 62",
+    "variation": 0
+  },
+  {
+    "filename": "equation_031_var_1.png",
+    "equation": "4x + 10 = 62",
+    "expected": "4x + 10 = 62",
+    "variation": 1
+  },
+  {
+    "filename": "equation_031_var_2.png",
+    "equation": "4x + 10 = 62",
+    "expected": "4x + 10 = 62",
+    "variation": 2
+  },
+  {
+    "filename": "equation_032_var_0.png",
+    "equation": "6x + 57 = 86",
+    "expected": "6x + 57 = 86",
+    "variation": 0
+  },
+  {
+    "filename": "equation_032_var_1.png",
+    "equation": "6x + 57 = 86",
+    "expected": "6x + 57 = 86",
+    "variation": 1
+  },
+  {
+    "filename": "equation_032_var_2.png",
+    "equation": "6x + 57 = 86",
+    "expected": "6x + 57 = 86",
+    "variation": 2
+  },
+  {
+    "filename": "equation_033_var_0.png",
+    "equation": "8x + 93 = 80",
+    "expected": "8x + 93 = 80",
+    "variation": 0
+  },
+  {
+    "filename": "equation_033_var_1.png",
+    "equation": "8x + 93 = 80",
+    "expected": "8x + 93 = 80",
+    "variation": 1
+  },
+  {
+    "filename": "equation_033_var_2.png",
+    "equation": "8x + 93 = 80",
+    "expected": "8x + 93 = 80",
+    "variation": 2
+  },
+  {
+    "filename": "equation_034_var_0.png",
+    "equation": "6x + 12 = 94",
+    "expected": "6x + 12 = 94",
+    "variation": 0
+  },
+  {
+    "filename": "equation_034_var_1.png",
+    "equation": "6x + 12 = 94",
+    "expected": "6x + 12 = 94",
+    "variation": 1
+  },
+  {
+    "filename": "equation_034_var_2.png",
+    "equation": "6x + 12 = 94",
+    "expected": "6x + 12 = 94",
+    "variation": 2
+  },
+  {
+    "filename": "equation_035_var_0.png",
+    "equation": "7x + 66 = 29",
+    "expected": "7x + 66 = 29",
+    "variation": 0
+  },
+  {
+    "filename": "equation_035_var_1.png",
+    "equation": "7x + 66 = 29",
+    "expected": "7x + 66 = 29",
+    "variation": 1
+  },
+  {
+    "filename": "equation_035_var_2.png",
+    "equation": "7x + 66 = 29",
+    "expected": "7x + 66 = 29",
+    "variation": 2
+  },
+  {
+    "filename": "equation_036_var_0.png",
+    "equation": "8x + 75 = 66",
+    "expected": "8x + 75 = 66",
+    "variation": 0
+  },
+  {
+    "filename": "equation_036_var_1.png",
+    "equation": "8x + 75 = 66",
+    "expected": "8x + 75 = 66",
+    "variation": 1
+  },
+  {
+    "filename": "equation_036_var_2.png",
+    "equation": "8x + 75 = 66",
+    "expected": "8x + 75 = 66",
+    "variation": 2
+  },
+  {
+    "filename": "equation_037_var_0.png",
+    "equation": "3x + 26 = 94",
+    "expected": "3x + 26 = 94",
+    "variation": 0
+  },
+  {
+    "filename": "equation_037_var_1.png",
+    "equation": "3x + 26 = 94",
+    "expected": "3x + 26 = 94",
+    "variation": 1
+  },
+  {
+    "filename": "equation_037_var_2.png",
+    "equation": "3x + 26 = 94",
+    "expected": "3x + 26 = 94",
+    "variation": 2
+  },
+  {
+    "filename": "equation_038_var_0.png",
+    "equation": "4x + 66 = 79",
+    "expected": "4x + 66 = 79",
+    "variation": 0
+  },
+  {
+    "filename": "equation_038_var_1.png",
+    "equation": "4x + 66 = 79",
+    "expected": "4x + 66 = 79",
+    "variation": 1
+  },
+  {
+    "filename": "equation_038_var_2.png",
+    "equation": "4x + 66 = 79",
+    "expected": "4x + 66 = 79",
+    "variation": 2
+  },
+  {
+    "filename": "equation_039_var_0.png",
+    "equation": "1x + 91 = 66",
+    "expected": "1x + 91 = 66",
+    "variation": 0
+  },
+  {
+    "filename": "equation_039_var_1.png",
+    "equation": "1x + 91 = 66",
+    "expected": "1x + 91 = 66",
+    "variation": 1
+  },
+  {
+    "filename": "equation_039_var_2.png",
+    "equation": "1x + 91 = 66",
+    "expected": "1x + 91 = 66",
+    "variation": 2
+  },
+  {
+    "filename": "equation_040_var_0.png",
+    "equation": "4x + 46 = 85",
+    "expected": "4x + 46 = 85",
+    "variation": 0
+  },
+  {
+    "filename": "equation_040_var_1.png",
+    "equation": "4x + 46 = 85",
+    "expected": "4x + 46 = 85",
+    "variation": 1
+  },
+  {
+    "filename": "equation_040_var_2.png",
+    "equation": "4x + 46 = 85",
+    "expected": "4x + 46 = 85",
+    "variation": 2
+  },
+  {
+    "filename": "equation_041_var_0.png",
+    "equation": "2x + 52 = 53",
+    "expected": "2x + 52 = 53",
+    "variation": 0
+  },
+  {
+    "filename": "equation_041_var_1.png",
+    "equation": "2x + 52 = 53",
+    "expected": "2x + 52 = 53",
+    "variation": 1
+  },
+  {
+    "filename": "equation_041_var_2.png",
+    "equation": "2x + 52 = 53",
+    "expected": "2x + 52 = 53",
+    "variation": 2
+  },
+  {
+    "filename": "equation_042_var_0.png",
+    "equation": "9x + 31 = 72",
+    "expected": "9x + 31 = 72",
+    "variation": 0
+  },
+  {
+    "filename": "equation_042_var_1.png",
+    "equation": "9x + 31 = 72",
+    "expected": "9x + 31 = 72",
+    "variation": 1
+  },
+  {
+    "filename": "equation_042_var_2.png",
+    "equation": "9x + 31 = 72",
+    "expected": "9x + 31 = 72",
+    "variation": 2
+  },
+  {
+    "filename": "equation_043_var_0.png",
+    "equation": "8x + 10 = 84",
+    "expected": "8x + 10 = 84",
+    "variation": 0
+  },
+  {
+    "filename": "equation_043_var_1.png",
+    "equation": "8x + 10 = 84",
+    "expected": "8x + 10 = 84",
+    "variation": 1
+  },
+  {
+    "filename": "equation_043_var_2.png",
+    "equation": "8x + 10 = 84",
+    "expected": "8x + 10 = 84",
+    "variation": 2
+  },
+  {
+    "filename": "equation_044_var_0.png",
+    "equation": "1x + 51 = 33",
+    "expected": "1x + 51 = 33",
+    "variation": 0
+  },
+  {
+    "filename": "equation_044_var_1.png",
+    "equation": "1x + 51 = 33",
+    "expected": "1x + 51 = 33",
+    "variation": 1
+  },
+  {
+    "filename": "equation_044_var_2.png",
+    "equation": "1x + 51 = 33",
+    "expected": "1x + 51 = 33",
+    "variation": 2
+  },
+  {
+    "filename": "equation_045_var_0.png",
+    "equation": "8x + 9 = 3",
+    "expected": "8x + 9 = 3",
+    "variation": 0
+  },
+  {
+    "filename": "equation_045_var_1.png",
+    "equation": "8x + 9 = 3",
+    "expected": "8x + 9 = 3",
+    "variation": 1
+  },
+  {
+    "filename": "equation_045_var_2.png",
+    "equation": "8x + 9 = 3",
+    "expected": "8x + 9 = 3",
+    "variation": 2
+  },
+  {
+    "filename": "equation_046_var_0.png",
+    "equation": "9x + 91 = 50",
+    "expected": "9x + 91 = 50",
+    "variation": 0
+  },
+  {
+    "filename": "equation_046_var_1.png",
+    "equation": "9x + 91 = 50",
+    "expected": "9x + 91 = 50",
+    "variation": 1
+  },
+  {
+    "filename": "equation_046_var_2.png",
+    "equation": "9x + 91 = 50",
+    "expected": "9x + 91 = 50",
+    "variation": 2
+  },
+  {
+    "filename": "equation_047_var_0.png",
+    "equation": "3x + 80 = 78",
+    "expected": "3x + 80 = 78",
+    "variation": 0
+  },
+  {
+    "filename": "equation_047_var_1.png",
+    "equation": "3x + 80 = 78",
+    "expected": "3x + 80 = 78",
+    "variation": 1
+  },
+  {
+    "filename": "equation_047_var_2.png",
+    "equation": "3x + 80 = 78",
+    "expected": "3x + 80 = 78",
+    "variation": 2
+  },
+  {
+    "filename": "equation_048_var_0.png",
+    "equation": "1x + 46 = 80",
+    "expected": "1x + 46 = 80",
+    "variation": 0
+  },
+  {
+    "filename": "equation_048_var_1.png",
+    "equation": "1x + 46 = 80",
+    "expected": "1x + 46 = 80",
+    "variation": 1
+  },
+  {
+    "filename": "equation_048_var_2.png",
+    "equation": "1x + 46 = 80",
+    "expected": "1x + 46 = 80",
+    "variation": 2
+  },
+  {
+    "filename": "equation_049_var_0.png",
+    "equation": "3x + 44 = 17",
+    "expected": "3x + 44 = 17",
+    "variation": 0
+  },
+  {
+    "filename": "equation_049_var_1.png",
+    "equation": "3x + 44 = 17",
+    "expected": "3x + 44 = 17",
+    "variation": 1
+  },
+  {
+    "filename": "equation_049_var_2.png",
+    "equation": "3x + 44 = 17",
+    "expected": "3x + 44 = 17",
+    "variation": 2
+  },
+  {
+    "filename": "equation_050_var_0.png",
+    "equation": "1x\u00b2 + 2x + 6 = 0",
+    "expected": "1x\u00b2 + 2x + 6 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_050_var_1.png",
+    "equation": "1x\u00b2 + 2x + 6 = 0",
+    "expected": "1x\u00b2 + 2x + 6 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_050_var_2.png",
+    "equation": "1x\u00b2 + 2x + 6 = 0",
+    "expected": "1x\u00b2 + 2x + 6 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_051_var_0.png",
+    "equation": "5x\u00b2 + 3x + 12 = 0",
+    "expected": "5x\u00b2 + 3x + 12 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_051_var_1.png",
+    "equation": "5x\u00b2 + 3x + 12 = 0",
+    "expected": "5x\u00b2 + 3x + 12 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_051_var_2.png",
+    "equation": "5x\u00b2 + 3x + 12 = 0",
+    "expected": "5x\u00b2 + 3x + 12 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_052_var_0.png",
+    "equation": "5x\u00b2 + 16x + 7 = 0",
+    "expected": "5x\u00b2 + 16x + 7 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_052_var_1.png",
+    "equation": "5x\u00b2 + 16x + 7 = 0",
+    "expected": "5x\u00b2 + 16x + 7 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_052_var_2.png",
+    "equation": "5x\u00b2 + 16x + 7 = 0",
+    "expected": "5x\u00b2 + 16x + 7 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_053_var_0.png",
+    "equation": "2x\u00b2 + 13x + 13 = 0",
+    "expected": "2x\u00b2 + 13x + 13 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_053_var_1.png",
+    "equation": "2x\u00b2 + 13x + 13 = 0",
+    "expected": "2x\u00b2 + 13x + 13 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_053_var_2.png",
+    "equation": "2x\u00b2 + 13x + 13 = 0",
+    "expected": "2x\u00b2 + 13x + 13 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_054_var_0.png",
+    "equation": "3x\u00b2 + 11x + 6 = 0",
+    "expected": "3x\u00b2 + 11x + 6 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_054_var_1.png",
+    "equation": "3x\u00b2 + 11x + 6 = 0",
+    "expected": "3x\u00b2 + 11x + 6 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_054_var_2.png",
+    "equation": "3x\u00b2 + 11x + 6 = 0",
+    "expected": "3x\u00b2 + 11x + 6 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_055_var_0.png",
+    "equation": "5x\u00b2 + 6x + 13 = 0",
+    "expected": "5x\u00b2 + 6x + 13 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_055_var_1.png",
+    "equation": "5x\u00b2 + 6x + 13 = 0",
+    "expected": "5x\u00b2 + 6x + 13 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_055_var_2.png",
+    "equation": "5x\u00b2 + 6x + 13 = 0",
+    "expected": "5x\u00b2 + 6x + 13 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_056_var_0.png",
+    "equation": "2x\u00b2 + 16x + 3 = 0",
+    "expected": "2x\u00b2 + 16x + 3 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_056_var_1.png",
+    "equation": "2x\u00b2 + 16x + 3 = 0",
+    "expected": "2x\u00b2 + 16x + 3 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_056_var_2.png",
+    "equation": "2x\u00b2 + 16x + 3 = 0",
+    "expected": "2x\u00b2 + 16x + 3 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_057_var_0.png",
+    "equation": "2x\u00b2 + 4x + 11 = 0",
+    "expected": "2x\u00b2 + 4x + 11 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_057_var_1.png",
+    "equation": "2x\u00b2 + 4x + 11 = 0",
+    "expected": "2x\u00b2 + 4x + 11 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_057_var_2.png",
+    "equation": "2x\u00b2 + 4x + 11 = 0",
+    "expected": "2x\u00b2 + 4x + 11 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_058_var_0.png",
+    "equation": "2x\u00b2 + 12x + 15 = 0",
+    "expected": "2x\u00b2 + 12x + 15 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_058_var_1.png",
+    "equation": "2x\u00b2 + 12x + 15 = 0",
+    "expected": "2x\u00b2 + 12x + 15 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_058_var_2.png",
+    "equation": "2x\u00b2 + 12x + 15 = 0",
+    "expected": "2x\u00b2 + 12x + 15 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_059_var_0.png",
+    "equation": "3x\u00b2 + 14x + 20 = 0",
+    "expected": "3x\u00b2 + 14x + 20 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_059_var_1.png",
+    "equation": "3x\u00b2 + 14x + 20 = 0",
+    "expected": "3x\u00b2 + 14x + 20 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_059_var_2.png",
+    "equation": "3x\u00b2 + 14x + 20 = 0",
+    "expected": "3x\u00b2 + 14x + 20 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_060_var_0.png",
+    "equation": "2x\u00b2 + 9x + 1 = 0",
+    "expected": "2x\u00b2 + 9x + 1 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_060_var_1.png",
+    "equation": "2x\u00b2 + 9x + 1 = 0",
+    "expected": "2x\u00b2 + 9x + 1 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_060_var_2.png",
+    "equation": "2x\u00b2 + 9x + 1 = 0",
+    "expected": "2x\u00b2 + 9x + 1 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_061_var_0.png",
+    "equation": "1x\u00b2 + 15x + 1 = 0",
+    "expected": "1x\u00b2 + 15x + 1 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_061_var_1.png",
+    "equation": "1x\u00b2 + 15x + 1 = 0",
+    "expected": "1x\u00b2 + 15x + 1 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_061_var_2.png",
+    "equation": "1x\u00b2 + 15x + 1 = 0",
+    "expected": "1x\u00b2 + 15x + 1 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_062_var_0.png",
+    "equation": "2x\u00b2 + 20x + 15 = 0",
+    "expected": "2x\u00b2 + 20x + 15 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_062_var_1.png",
+    "equation": "2x\u00b2 + 20x + 15 = 0",
+    "expected": "2x\u00b2 + 20x + 15 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_062_var_2.png",
+    "equation": "2x\u00b2 + 20x + 15 = 0",
+    "expected": "2x\u00b2 + 20x + 15 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_063_var_0.png",
+    "equation": "4x\u00b2 + 16x + 19 = 0",
+    "expected": "4x\u00b2 + 16x + 19 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_063_var_1.png",
+    "equation": "4x\u00b2 + 16x + 19 = 0",
+    "expected": "4x\u00b2 + 16x + 19 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_063_var_2.png",
+    "equation": "4x\u00b2 + 16x + 19 = 0",
+    "expected": "4x\u00b2 + 16x + 19 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_064_var_0.png",
+    "equation": "1x\u00b2 + 19x + 17 = 0",
+    "expected": "1x\u00b2 + 19x + 17 = 0",
+    "variation": 0
+  },
+  {
+    "filename": "equation_064_var_1.png",
+    "equation": "1x\u00b2 + 19x + 17 = 0",
+    "expected": "1x\u00b2 + 19x + 17 = 0",
+    "variation": 1
+  },
+  {
+    "filename": "equation_064_var_2.png",
+    "equation": "1x\u00b2 + 19x + 17 = 0",
+    "expected": "1x\u00b2 + 19x + 17 = 0",
+    "variation": 2
+  },
+  {
+    "filename": "equation_065_var_0.png",
+    "equation": "6/4 * 15/2 =",
+    "expected": "6/4 * 15/2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_065_var_1.png",
+    "equation": "6/4 * 15/2 =",
+    "expected": "6/4 * 15/2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_065_var_2.png",
+    "equation": "6/4 * 15/2 =",
+    "expected": "6/4 * 15/2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_066_var_0.png",
+    "equation": "11/10 * 6/3 =",
+    "expected": "11/10 * 6/3 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_066_var_1.png",
+    "equation": "11/10 * 6/3 =",
+    "expected": "11/10 * 6/3 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_066_var_2.png",
+    "equation": "11/10 * 6/3 =",
+    "expected": "11/10 * 6/3 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_067_var_0.png",
+    "equation": "2/7 - 10/5 =",
+    "expected": "2/7 - 10/5 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_067_var_1.png",
+    "equation": "2/7 - 10/5 =",
+    "expected": "2/7 - 10/5 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_067_var_2.png",
+    "equation": "2/7 - 10/5 =",
+    "expected": "2/7 - 10/5 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_068_var_0.png",
+    "equation": "5/2 / 19/7 =",
+    "expected": "5/2 / 19/7 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_068_var_1.png",
+    "equation": "5/2 / 19/7 =",
+    "expected": "5/2 / 19/7 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_068_var_2.png",
+    "equation": "5/2 / 19/7 =",
+    "expected": "5/2 / 19/7 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_069_var_0.png",
+    "equation": "5/7 - 17/9 =",
+    "expected": "5/7 - 17/9 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_069_var_1.png",
+    "equation": "5/7 - 17/9 =",
+    "expected": "5/7 - 17/9 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_069_var_2.png",
+    "equation": "5/7 - 17/9 =",
+    "expected": "5/7 - 17/9 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_070_var_0.png",
+    "equation": "9/8 - 16/9 =",
+    "expected": "9/8 - 16/9 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_070_var_1.png",
+    "equation": "9/8 - 16/9 =",
+    "expected": "9/8 - 16/9 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_070_var_2.png",
+    "equation": "9/8 - 16/9 =",
+    "expected": "9/8 - 16/9 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_071_var_0.png",
+    "equation": "16/3 - 13/2 =",
+    "expected": "16/3 - 13/2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_071_var_1.png",
+    "equation": "16/3 - 13/2 =",
+    "expected": "16/3 - 13/2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_071_var_2.png",
+    "equation": "16/3 - 13/2 =",
+    "expected": "16/3 - 13/2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_072_var_0.png",
+    "equation": "2/9 - 16/6 =",
+    "expected": "2/9 - 16/6 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_072_var_1.png",
+    "equation": "2/9 - 16/6 =",
+    "expected": "2/9 - 16/6 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_072_var_2.png",
+    "equation": "2/9 - 16/6 =",
+    "expected": "2/9 - 16/6 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_073_var_0.png",
+    "equation": "4/5 - 12/10 =",
+    "expected": "4/5 - 12/10 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_073_var_1.png",
+    "equation": "4/5 - 12/10 =",
+    "expected": "4/5 - 12/10 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_073_var_2.png",
+    "equation": "4/5 - 12/10 =",
+    "expected": "4/5 - 12/10 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_074_var_0.png",
+    "equation": "2/6 + 2/10 =",
+    "expected": "2/6 + 2/10 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_074_var_1.png",
+    "equation": "2/6 + 2/10 =",
+    "expected": "2/6 + 2/10 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_074_var_2.png",
+    "equation": "2/6 + 2/10 =",
+    "expected": "2/6 + 2/10 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_075_var_0.png",
+    "equation": "8/9 + 11/9 =",
+    "expected": "8/9 + 11/9 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_075_var_1.png",
+    "equation": "8/9 + 11/9 =",
+    "expected": "8/9 + 11/9 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_075_var_2.png",
+    "equation": "8/9 + 11/9 =",
+    "expected": "8/9 + 11/9 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_076_var_0.png",
+    "equation": "5/3 * 14/3 =",
+    "expected": "5/3 * 14/3 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_076_var_1.png",
+    "equation": "5/3 * 14/3 =",
+    "expected": "5/3 * 14/3 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_076_var_2.png",
+    "equation": "5/3 * 14/3 =",
+    "expected": "5/3 * 14/3 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_077_var_0.png",
+    "equation": "14/7 / 4/6 =",
+    "expected": "14/7 / 4/6 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_077_var_1.png",
+    "equation": "14/7 / 4/6 =",
+    "expected": "14/7 / 4/6 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_077_var_2.png",
+    "equation": "14/7 / 4/6 =",
+    "expected": "14/7 / 4/6 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_078_var_0.png",
+    "equation": "3/6 + 8/10 =",
+    "expected": "3/6 + 8/10 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_078_var_1.png",
+    "equation": "3/6 + 8/10 =",
+    "expected": "3/6 + 8/10 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_078_var_2.png",
+    "equation": "3/6 + 8/10 =",
+    "expected": "3/6 + 8/10 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_079_var_0.png",
+    "equation": "13/4 * 4/2 =",
+    "expected": "13/4 * 4/2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_079_var_1.png",
+    "equation": "13/4 * 4/2 =",
+    "expected": "13/4 * 4/2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_079_var_2.png",
+    "equation": "13/4 * 4/2 =",
+    "expected": "13/4 * 4/2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_080_var_0.png",
+    "equation": "2.4 + 0.9 =",
+    "expected": "2.4 + 0.9 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_080_var_1.png",
+    "equation": "2.4 + 0.9 =",
+    "expected": "2.4 + 0.9 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_080_var_2.png",
+    "equation": "2.4 + 0.9 =",
+    "expected": "2.4 + 0.9 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_081_var_0.png",
+    "equation": "68.3 * 84.7 =",
+    "expected": "68.3 * 84.7 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_081_var_1.png",
+    "equation": "68.3 * 84.7 =",
+    "expected": "68.3 * 84.7 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_081_var_2.png",
+    "equation": "68.3 * 84.7 =",
+    "expected": "68.3 * 84.7 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_082_var_0.png",
+    "equation": "13.7 / 3.2 =",
+    "expected": "13.7 / 3.2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_082_var_1.png",
+    "equation": "13.7 / 3.2 =",
+    "expected": "13.7 / 3.2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_082_var_2.png",
+    "equation": "13.7 / 3.2 =",
+    "expected": "13.7 / 3.2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_083_var_0.png",
+    "equation": "85.2 / 43.4 =",
+    "expected": "85.2 / 43.4 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_083_var_1.png",
+    "equation": "85.2 / 43.4 =",
+    "expected": "85.2 / 43.4 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_083_var_2.png",
+    "equation": "85.2 / 43.4 =",
+    "expected": "85.2 / 43.4 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_084_var_0.png",
+    "equation": "78.9 - 77.3 =",
+    "expected": "78.9 - 77.3 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_084_var_1.png",
+    "equation": "78.9 - 77.3 =",
+    "expected": "78.9 - 77.3 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_084_var_2.png",
+    "equation": "78.9 - 77.3 =",
+    "expected": "78.9 - 77.3 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_085_var_0.png",
+    "equation": "96.2 - 86.7 =",
+    "expected": "96.2 - 86.7 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_085_var_1.png",
+    "equation": "96.2 - 86.7 =",
+    "expected": "96.2 - 86.7 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_085_var_2.png",
+    "equation": "96.2 - 86.7 =",
+    "expected": "96.2 - 86.7 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_086_var_0.png",
+    "equation": "38.5 * 24.3 =",
+    "expected": "38.5 * 24.3 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_086_var_1.png",
+    "equation": "38.5 * 24.3 =",
+    "expected": "38.5 * 24.3 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_086_var_2.png",
+    "equation": "38.5 * 24.3 =",
+    "expected": "38.5 * 24.3 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_087_var_0.png",
+    "equation": "30.5 + 94.8 =",
+    "expected": "30.5 + 94.8 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_087_var_1.png",
+    "equation": "30.5 + 94.8 =",
+    "expected": "30.5 + 94.8 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_087_var_2.png",
+    "equation": "30.5 + 94.8 =",
+    "expected": "30.5 + 94.8 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_088_var_0.png",
+    "equation": "90.0 - 34.9 =",
+    "expected": "90.0 - 34.9 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_088_var_1.png",
+    "equation": "90.0 - 34.9 =",
+    "expected": "90.0 - 34.9 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_088_var_2.png",
+    "equation": "90.0 - 34.9 =",
+    "expected": "90.0 - 34.9 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_089_var_0.png",
+    "equation": "88.0 + 33.2 =",
+    "expected": "88.0 + 33.2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_089_var_1.png",
+    "equation": "88.0 + 33.2 =",
+    "expected": "88.0 + 33.2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_089_var_2.png",
+    "equation": "88.0 + 33.2 =",
+    "expected": "88.0 + 33.2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_090_var_0.png",
+    "equation": "4 7/4 + 2 =",
+    "expected": "4 7/4 + 2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_090_var_1.png",
+    "equation": "4 7/4 + 2 =",
+    "expected": "4 7/4 + 2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_090_var_2.png",
+    "equation": "4 7/4 + 2 =",
+    "expected": "4 7/4 + 2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_091_var_0.png",
+    "equation": "8 9/2 + 2 =",
+    "expected": "8 9/2 + 2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_091_var_1.png",
+    "equation": "8 9/2 + 2 =",
+    "expected": "8 9/2 + 2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_091_var_2.png",
+    "equation": "8 9/2 + 2 =",
+    "expected": "8 9/2 + 2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_092_var_0.png",
+    "equation": "5 4/10 + 2 =",
+    "expected": "5 4/10 + 2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_092_var_1.png",
+    "equation": "5 4/10 + 2 =",
+    "expected": "5 4/10 + 2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_092_var_2.png",
+    "equation": "5 4/10 + 2 =",
+    "expected": "5 4/10 + 2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_093_var_0.png",
+    "equation": "4 9/5 + 2 =",
+    "expected": "4 9/5 + 2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_093_var_1.png",
+    "equation": "4 9/5 + 2 =",
+    "expected": "4 9/5 + 2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_093_var_2.png",
+    "equation": "4 9/5 + 2 =",
+    "expected": "4 9/5 + 2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_094_var_0.png",
+    "equation": "9 4/9 + 2 =",
+    "expected": "9 4/9 + 2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_094_var_1.png",
+    "equation": "9 4/9 + 2 =",
+    "expected": "9 4/9 + 2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_094_var_2.png",
+    "equation": "9 4/9 + 2 =",
+    "expected": "9 4/9 + 2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_095_var_0.png",
+    "equation": "4 3/7 + 2 =",
+    "expected": "4 3/7 + 2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_095_var_1.png",
+    "equation": "4 3/7 + 2 =",
+    "expected": "4 3/7 + 2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_095_var_2.png",
+    "equation": "4 3/7 + 2 =",
+    "expected": "4 3/7 + 2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_096_var_0.png",
+    "equation": "8 7/9 + 2 =",
+    "expected": "8 7/9 + 2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_096_var_1.png",
+    "equation": "8 7/9 + 2 =",
+    "expected": "8 7/9 + 2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_096_var_2.png",
+    "equation": "8 7/9 + 2 =",
+    "expected": "8 7/9 + 2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_097_var_0.png",
+    "equation": "6 7/2 + 2 =",
+    "expected": "6 7/2 + 2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_097_var_1.png",
+    "equation": "6 7/2 + 2 =",
+    "expected": "6 7/2 + 2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_097_var_2.png",
+    "equation": "6 7/2 + 2 =",
+    "expected": "6 7/2 + 2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_098_var_0.png",
+    "equation": "8 1/3 + 2 =",
+    "expected": "8 1/3 + 2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_098_var_1.png",
+    "equation": "8 1/3 + 2 =",
+    "expected": "8 1/3 + 2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_098_var_2.png",
+    "equation": "8 1/3 + 2 =",
+    "expected": "8 1/3 + 2 =",
+    "variation": 2
+  },
+  {
+    "filename": "equation_099_var_0.png",
+    "equation": "7 7/10 + 2 =",
+    "expected": "7 7/10 + 2 =",
+    "variation": 0
+  },
+  {
+    "filename": "equation_099_var_1.png",
+    "equation": "7 7/10 + 2 =",
+    "expected": "7 7/10 + 2 =",
+    "variation": 1
+  },
+  {
+    "filename": "equation_099_var_2.png",
+    "equation": "7 7/10 + 2 =",
+    "expected": "7 7/10 + 2 =",
+    "variation": 2
+  }
+]

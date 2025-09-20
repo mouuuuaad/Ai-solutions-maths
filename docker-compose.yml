@@ -1,0 +1,71 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15
+    container_name: math-solver-db
+    environment:
+      POSTGRES_DB: math_solver
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - math-solver-network
+
+  # Go Backend API
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: math-solver-backend
+    environment:
+      PORT: 8080
+      DATABASE_URL: postgres://user:password@postgres:5432/math_solver?sslmode=disable
+      AI_SERVICE_URL: http://ai-service:8001
+      JWT_SECRET: your-secret-key-change-this-in-production
+    ports:
+      - "8080:8080"
+    depends_on:
+      - postgres
+      - ai-service
+    networks:
+      - math-solver-network
+
+  # Python AI Service
+  ai-service:
+    build:
+      context: ./ai-service
+      dockerfile: Dockerfile
+    container_name: math-solver-ai
+    environment:
+      PORT: 8001
+    ports:
+      - "8001:8001"
+    networks:
+      - math-solver-network
+
+  # Next.js Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: math-solver-frontend
+    environment:
+      BACKEND_URL: http://backend:8080
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    networks:
+      - math-solver-network
+
+volumes:
+  postgres_data:
+
+networks:
+  math-solver-network:
+    driver: bridge

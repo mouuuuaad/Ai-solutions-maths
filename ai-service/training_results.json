@@ -1,0 +1,8 @@
+{
+  "training_data_count": 300,
+  "test_accuracy": 0.0,
+  "test_correct": 0,
+  "test_total": 20,
+  "number_corrections": 42,
+  "tesseract_configs": 8
+}

@@ -1,0 +1,55 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        Int      @id @default(autoincrement())
+  email     String   @unique
+  password  String
+  name      String?
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+  deletedAt DateTime? @map("deleted_at")
+
+  equations Equation[]
+
+  @@map("users")
+}
+
+model Equation {
+  id         Int      @id @default(autoincrement())
+  userId     Int      @map("user_id")
+  user       User     @relation(fields: [userId], references: [id])
+  input      String
+  normalized String
+  imageData  String?  @map("image_data") @db.Text
+  confidence Float
+  createdAt  DateTime @default(now()) @map("created_at")
+  updatedAt  DateTime @updatedAt @map("updated_at")
+  deletedAt  DateTime? @map("deleted_at")
+
+  solution Solution?
+
+  @@map("equations")
+}
+
+model Solution {
+  id         Int      @id @default(autoincrement())
+  equationId Int      @unique @map("equation_id")
+  equation   Equation @relation(fields: [equationId], references: [id])
+  steps      String   @db.Text // JSON array as string
+  solution   String   @db.Text // JSON array as string
+  createdAt  DateTime @default(now()) @map("created_at")
+  updatedAt  DateTime @updatedAt @map("updated_at")
+  deletedAt  DateTime? @map("deleted_at")
+
+  @@map("solutions")
+}
